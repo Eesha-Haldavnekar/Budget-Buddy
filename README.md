@@ -9,8 +9,8 @@
 
 ## 👨‍💻 Project Members
 
-- Priyanshu  
-- Eesha
+- Priyanshu Prasad
+- Eesha Haldavnekar
 
 ---
 
